@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Nancy,</h1>
+<h1 align="center">Hello, World! I'm Nancy,</h1>
 <h3 align="center">an aspiring Software Engineer based in Germany!</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/NancyMits](https://github.com/NancyMits)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/athanasia-nancy-mitsaki-7b4487b1/](https://www.linkedin.com/in/athanasia-nancy-mitsaki-7b4487b1/)
+
+🌱 I’m currently learning Git & GitHub
+
+👨‍💻 All of my projects are available at [https://github.com/NancyMits](https://github.com/NancyMits)
+
+📄 Know about my experiences [https://www.linkedin.com/in/athanasia-nancy-mitsaki-7b4487b1/](https://www.linkedin.com/in/athanasia-nancy-mitsaki-7b4487b1/)
 
 
 <h3 align="left">Languages and Tools:</h3>
