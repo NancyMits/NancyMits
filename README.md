@@ -1,5 +1,5 @@
 <h1>Hello, World!</h1>
-<h3> I'm Nancy, an aspiring Software Engineer based in Germany!</h3>
+<h3> I'm Nancy, an aspiring Software Developer based in Germany!</h3>
 
 <br/><br/>
 <img align="left" src="code.gif" alt="girl coding" width="200px" height="95px"/>
