@@ -3,7 +3,7 @@
 
 <br/><br/>
 <img align="left" src="code.gif" alt="girl coding" width="200px" height="95px"/>
-🌱 I’m currently learning Linux
+🌱 I’m currently learning C
 
 👨‍💻 All of my projects are available at [https://github.com/NancyMits](https://github.com/NancyMits)
 
